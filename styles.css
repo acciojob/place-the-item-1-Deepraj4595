@@ -3,6 +3,7 @@
 .holder{
 	display: flex;
 	justify-content: space-between;
+	flex-wrap: nowrap;
 }
 .items{
 	height: 100px;
